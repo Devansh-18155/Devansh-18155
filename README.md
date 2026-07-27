@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Devansh Patel </h1>
-<h3 align="center">Full Stack Developer   Open Source Contributor • Learning AI ML</h3>
+<h3 align="center">Full Stack Developer • Open Source Contributor • Learning AI ML</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devansh-18155&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -27,14 +27,6 @@
 - 📚 Data Structures & Algorithms
 - 🤖 AI Powered Applications
 - 🏆 Open Source Contributions
-
-<br/>
-
-### GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devansh-18155&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-18155&layout=compact&theme=default&hide_border=true" />
-</p>
 
 <br/>
 
