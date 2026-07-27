@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Devansh Patel 👋</h1>
-<h3 align="center">Full Stack Developer • Open Source Contributor • AI Enthusiast</h3>
+<h1 align="center">Hi, I'm Devansh Patel </h1>
+<h3 align="center">Full Stack Developer   Open Source Contributor • Learning AI ML</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devansh-18155&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -25,7 +25,6 @@
 
 ### Currently Working On
 - 📚 Data Structures & Algorithms
-- 🌐 MERN Stack Projects
 - 🤖 AI Powered Applications
 - 🏆 Open Source Contributions
 
@@ -39,11 +38,5 @@
 
 <br/>
 
-### Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Devansh-18155"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
 
-<p align="center"><i>Thanks for stopping by ⭐</i></p>
+<p align="center"><i>Thanks for stopping by </i></p>
