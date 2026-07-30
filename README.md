@@ -24,9 +24,9 @@
 <br/>
 
 ### Currently Working On
-- 📚 Data Structures & Algorithms
-- 🤖 AI Powered Applications
-- 🏆 Open Source Contributions
+-  Data Structures & Algorithms
+-  AI Powered Applications
+-  Open Source Contributions
 
 <br/>
 
