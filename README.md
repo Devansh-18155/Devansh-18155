@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+scalable+Java+backend+applications;Exploring+AI+%2F+ML;Contributing+to+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+scalable+Java+backend+applications;Exploring+AI+%2F+ML;Contributing+to+Open+Source" alt="Typing SVG" />
 </p>
 
 <br/>
 
-## 🚀 About Me
+##  About Me
 
 -  Computer Science Student
 -  Building scalable web applications
@@ -32,12 +32,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devansh-18155&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-18155&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh-18155&theme=tokyonight&hide_border=true" />
@@ -49,7 +44,7 @@
 
 <br/>
 
-## 🌱 Currently Working On
+## Currently Working On
 
 -  Data Structures & Algorithms
 -  Java Backend Applications
