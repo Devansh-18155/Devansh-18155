@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Devansh Patel</h1>
-<h3 align="center">Full Stack Developer • Open Source Contributor • Learning AI/ML</h3>
+<h1 align="center">Hi , I'm Devansh Patel</h1>
+<h3 align="center">Java Developer • Open Source Contributor • Learning AI/ML</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devansh-18155&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -16,12 +16,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💻 Learning DSA & Backend Development
-- 🌐 Building scalable web applications
-- 🔍 Exploring Open Source
-- 🧩 Solving LeetCode problems
-- 🤖 Diving into AI/ML
+-  Computer Science Student
+-  Building scalable web applications
+-  Exploring Open Source
+-  Solving LeetCode problems
+-  Diving into AI/ML
 
 <br/>
 
@@ -52,20 +51,8 @@
 
 ## 🌱 Currently Working On
 
-- 📚 Data Structures & Algorithms
-- 🤖 AI-Powered Applications
-- 🌍 Open Source Contributions
+-  Data Structures & Algorithms
+-  Java Backend Applications
+-  Open Source Contributions
 
-<br/>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<br/>
-
-<p align="center"><i>⭐️ Thanks for stopping by! Feel free to explore my repositories.</i></p>
+<p align="center"><i> Thanks for stopping by! Feel free to explore my repositories.</i></p>
