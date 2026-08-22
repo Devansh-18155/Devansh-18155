@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+scalable+java backend+applications;Exploring+AI+%2F+ML;Contributing+to+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+scalable+java+ backend+applications;Exploring+AI+%2F+ML;Contributing+to+Open+Source" alt="Typing SVG" />
 </p>
 
 <br/>
