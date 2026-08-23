@@ -2,10 +2,6 @@
 <h3 align="center">Java Developer • Open Source Contributor • Learning AI/ML</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devansh-18155&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+scalable+Java+backend+applications;Exploring+AI+%2F+ML;Contributing+to+Open+Source" alt="Typing SVG" />
 </p>
 
