@@ -36,29 +36,4 @@ I am a Computer Science student and a passionate Java backend developer who enjo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devansh-18155&show_icons=true&theme=tokyonight&hide_border=true" alt="github-stats" />
-  <img src="https://streak-stats.demolab.com?user=Devansh-18155&theme=tokyonight&hide_border=true" alt="git-streak" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-> Replace these with links and short descriptions for your best repos.
-
-- **Project-Name** — Short one-line description. (link: https://github.com/Devansh-18155/REPO)
-- **Project-Name** — Short one-line description. (link: https://github.com/Devansh-18155/REPO)
-
----
-
-## 💬 How to reach me
-
-- GitHub: https://github.com/Devansh-18155
-- Email: add-your-email@example.com
-
----
-
 <p align="center"><em>Thanks for visiting! Feel free to explore my repositories and open an issue or PR if you'd like to collaborate.</em></p>
