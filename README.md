@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About me
+##  About me
 
 I am a Computer Science student and a passionate Java backend developer who enjoys building scalable web applications, contributing to open-source projects, and learning new technologies like AI/ML. I also practice algorithms and data structures to level up my problem-solving skills.
 
@@ -20,7 +20,7 @@ I am a Computer Science student and a passionate Java backend developer who enjo
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,mysql,java,python,git,github,vscode" alt="tech" />
@@ -28,7 +28,7 @@ I am a Computer Science student and a passionate Java backend developer who enjo
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Devansh-18155&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -43,9 +43,5 @@ I am a Computer Science student and a passionate Java backend developer who enjo
 -  Contributing to open-source projects
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devansh-18155&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center"><em>Thanks for visiting!
