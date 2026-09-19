@@ -1,7 +1,7 @@
 <h1 align="center">Hi,Myself Devansh Patel </h1>
 
 <p align="center">
-  <strong>Making real life applications </strong> • Open Source Contributor • Learning AI/ML
+  <strong>Making real life applications </strong> • Open Source Contributor\\\ • Learning AI/ML
 </p>
 
 <p align="center">
